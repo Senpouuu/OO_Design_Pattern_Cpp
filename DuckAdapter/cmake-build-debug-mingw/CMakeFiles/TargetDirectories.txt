@@ -1,0 +1,3 @@
+D:/OOforCpp/DuckAdapter/cmake-build-debug-mingw/CMakeFiles/DuckAdapter.dir
+D:/OOforCpp/DuckAdapter/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/OOforCpp/DuckAdapter/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
